@@ -76,7 +76,7 @@ jQuery(function ($) {
 	});
 
 
-	$(document).ready(function () {
+	$(document).ready(function () {		
 
 		function fixNavbar() {
 			var headerOneELement = $('.header-one .site-navigation');
