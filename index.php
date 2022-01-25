@@ -962,7 +962,7 @@
       <div 
           class="fb-customerchat"
           page_id="102706638923887"
-          theme_color="#14bf98"
+          theme_color="#ffb600"
           logged_in_greeting="Hi! How can we help you?"
           logged_out_greeting="GoodBye!... Hope to see you soon."
           minimized="false"
